@@ -1,0 +1,10 @@
+streamlit>=1.32.0
+streamlit-autorefresh>=1.0.1
+paho-mqtt>=1.6.1
+pandas>=2.0.0
+numpy>=1.26.0
+plotly>=5.20.0
+scikit-learn>=1.4.0
+openpyxl>=3.1.2
+fpdf2>=2.7.9
+pydeck>=0.8.1b0
